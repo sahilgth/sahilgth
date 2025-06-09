@@ -11,3 +11,21 @@ I'm a passionate Frontend Developer specializing in creating beautiful, responsi
 - 🧠 DSA enthusiast with expertise in algorithmic problem-solving. 
 - 💬 Ask me about React, JavaScript, Frontend Performance, UI/UX Implementation
 
+<h1 align="center">Core Technologies</h1>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="41" alt="javascript logo"  />
+  <img width="27" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="41" alt="typescript logo"  />
+  <img width="27" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="41" alt="react logo"  />
+  <img width="27" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="41" alt="html5 logo"  />
+  <img width="27" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="41" alt="css3 logo"  />
+</div>
+
+###
+
