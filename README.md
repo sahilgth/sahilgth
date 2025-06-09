@@ -11,7 +11,8 @@ I'm a passionate Frontend Developer specializing in creating beautiful, responsi
 - 🧠 DSA enthusiast with expertise in algorithmic problem-solving. 
 - 💬 Ask me about React, JavaScript, Frontend Performance, UI/UX Implementation
 
-<h1 align="center">Core Technologies</h1>
+##
+<h2 align="center">Core Technologies</h2>
 
 ###
 
