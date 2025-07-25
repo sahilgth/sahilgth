@@ -3,11 +3,12 @@
 
 ABOUT ME :
 ##
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
-I'm a passionate Frontend Developer specializing in creating beautiful, responsive, and user-friendly web applications. With a strong foundation in React and JavaScript, I transform design concepts into seamless interactive experiences. I'm also well-versed in modern frontend architecture, performance optimization, and accessibility standards
+I’m an aspiring Data Scientist passionate about turning data into actionable insights and building AI-powered solutions. I apply machine,learning,predictive modeling, and data visualization to solve real-world problems using tools like Python, Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn, and Tableau.
 
-- 🔭 I’m currently working on integrating Artificial intelligence models on web pages and apps.
+In addition to my data science expertise, I have a solid foundation in front-end development, having built responsive web applications using React.js, Tailwind CSS,JavaScript, and HTML5.
+
 - 🌱 I’m currently learning Artificail Intelligence.
 - 👯 I’m looking to collaborate on Training ML models.
 - 🧠 DSA enthusiast with expertise in algorithmic problem-solving. 
