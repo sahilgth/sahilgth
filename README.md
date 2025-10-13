@@ -3,11 +3,11 @@
 
 ABOUT ME :
 ##
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-I’m an aspiring Data Scientist passionate about turning data into actionable insights and building AI-powered solutions. I apply machine,learning,predictive modeling, and data visualization to solve real-world problems using tools like Python, Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn, and Tableau.
+I’m an aspiring Software Engineer passionate about designing and developing efficient, scalable, and maintainable software solutions. I specialize in building web and application solutions using programming, algorithm design, and software architecture principles with tools and technologies like Python, Java, C++, JavaScript, React.js, Node.js, Tailwind CSS, HTML5, and SQL.
 
-In addition to my data science expertise, I have a solid foundation in front-end development, having built responsive web applications using React.js, Tailwind CSS,JavaScript, and HTML5.
+In addition to my core software development skills, I have experience as a Data Analyst, analyzing and interpreting complex data sets to provide actionable insights, creating data visualizations, and supporting data-driven decision-making in real-world projects.
 
 - 🌱 I’m currently learning Artificail Intelligence.
 - 👯 I’m looking to collaborate on Training ML models.
